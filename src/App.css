@@ -36,3 +36,40 @@
     transform: rotate(360deg);
   }
 }
+img{
+  border: solid;
+  border-radius: 80px;
+  width: 200px;
+  padding:80px;
+  padding-top: 5px;
+  margin-left: 400px;
+}
+.vv {
+  background-color: #4a914a; /* Green */
+  color: white;
+ 
+
+}
+.bouttn {
+  color: black;
+
+}
+.decrese{
+  margin-left: 50%;
+}
+button{
+  line-height:40px;
+  justify-content:space-between;
+  margin-left: 70px;
+  font-size: 50px;
+  color:rgb(238, 25, 25);
+  width: 250px;
+
+
+}
+p{
+color: rgb(34, 19, 165);
+font-size: 80px;
+text-align: center;
+}
+
